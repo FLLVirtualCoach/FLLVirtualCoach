@@ -1,10 +1,20 @@
 # First Lego League Challenge - FLL Virtual Coach
 
-## Quick Start
+## Get Started
 The prompts are broken into two groups: Innovation Project & Robot Project.  While the prompts work best if you use them "sequentially" in a single chat with an AI, you can use each of them on a standalone basis.  You copy and paste the prompts into your AI of choice and then answer the questions.  Click on each of the tiles below to go to the prompts.
-
 - include swimlane for innovation project prompt tiles
 - include swimlane for robot project prompt tiles
+
+> [!NOTE]
+> These prompts are intended for use with any of following free Generative AI (GenAI) Tools  
+> ![chatgpt](https://github.com/user-attachments/assets/5fce563b-030e-49cd-b006-c8d09df976e5)
+[OpenAI ChatGPT](https://chatgpt.com/)  ![copilot](https://github.com/user-attachments/assets/77b4af09-51a8-453a-a74f-d79f4f911a94)
+[Microsoft Copilot](https://copilot.microsoft.com/)  ![Gemini](https://github.com/user-attachments/assets/4bedebbc-3016-4f39-9c54-eb3682eeb11c)
+[Google Gemini](https://gemini.google.com/app)  ![Claude](https://github.com/user-attachments/assets/2a7baffe-86d3-4d11-9207-2498010cfce9)
+[Anthropic Claude](https://claude.ai/)  ![meta](https://github.com/user-attachments/assets/8304772d-38e3-4632-b0c2-c12ca43b3bda)
+[Meta Llama](https://www.meta.ai/)  ![Atlas](https://github.com/user-attachments/assets/92f8a52a-067b-461b-9097-eb02c2f3bd2c)
+[Atlas.org](https://www.atlas.org/)
+
 
 ## Project Purpose
 This project is intended to provide ROOKIE & NOVICE First Lego League Challenge (FLL) teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (Open AI ChatGPT, Microsoft Copilot, Google Gemini, & Anthropic Claude) to help new teams find inspiration and demohstrate how to put together the components that are assessed by FLL judges.  If you're a mature FLL team with competition experience, this project is not going to teach you anything that you don't already know.
