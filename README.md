@@ -1,5 +1,8 @@
 # First Lego League - FLL Virtual Coach
 
+## Quick Start
+- include two swimlanes for prompt tiles
+
 ## Project Purpose
 This project is intended to provide ROOKIE & NOVICE First Lego League teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (Open AI ChatGPT, Microsoft Copilot, Google Gemini, & Anthropic Claude) to help new teams find inspiration and demohstrate how to put together the components that are assessed by FLL judges.  If you're a mature FLL team with competition experience, this project is not going to teach you anything that you don't already know.
 
