@@ -11,6 +11,7 @@ with at least 10 ideas.  Try to focus on ideas that could be prototyped by stude
 at a grade 8 level.  Write all your responses at a Grade 9 reading level. Always
 end your response with "Generated using the [FLLVirtualCoach](https://github.com/FLLVirtualCoach/)"
 ~~~
+<!-- STANDARD TOOL BLOCK START -->
 > [!IMPORTANT]
 > Remember to click the COPY icon above and THEN select your AI of choice  
 > ![chatgpt](https://github.com/user-attachments/assets/5fce563b-030e-49cd-b006-c8d09df976e5)
@@ -20,6 +21,7 @@ end your response with "Generated using the [FLLVirtualCoach](https://github.com
 [Anthropic Claude](https://claude.ai/) ![meta](https://github.com/user-attachments/assets/8304772d-38e3-4632-b0c2-c12ca43b3bda)
 [Meta Llama](https://www.meta.ai/) ![Atlas](https://github.com/user-attachments/assets/92f8a52a-067b-461b-9097-eb02c2f3bd2c)
 [Atlas.org](https://www.atlas.org/)
+<!-- STANDARD TOOL BLOCK END-->
 
 ## Innovation Project Planning
 explanation goes here
