@@ -13,7 +13,13 @@ end your response with "Generated using the [FLLVirtualCoach](https://github.com
 ~~~
 > [!IMPORTANT]
 > Remember to click the COPY icon above and THEN select your AI of choice  
-> [OpenAI ChatGPT](https://chatgpt.com/) | [Microsoft Copilot](https://copilot.microsoft.com/) | [Google Gemini](https://gemini.google.com/app) | [Anthropic Claude](https://claude.ai/) | [Meta Llama](https://www.meta.ai/) | [Atlas.org](https://www.atlas.org/)
+> ![chatgpt](https://github.com/user-attachments/assets/5fce563b-030e-49cd-b006-c8d09df976e5)
+[OpenAI ChatGPT](https://chatgpt.com/) ![copilot](https://github.com/user-attachments/assets/77b4af09-51a8-453a-a74f-d79f4f911a94)
+[Microsoft Copilot](https://copilot.microsoft.com/) ![Gemini](https://github.com/user-attachments/assets/4bedebbc-3016-4f39-9c54-eb3682eeb11c)
+[Google Gemini](https://gemini.google.com/app) ![Claude](https://github.com/user-attachments/assets/2a7baffe-86d3-4d11-9207-2498010cfce9)
+[Anthropic Claude](https://claude.ai/) ![meta](https://github.com/user-attachments/assets/8304772d-38e3-4632-b0c2-c12ca43b3bda)
+[Meta Llama](https://www.meta.ai/) ![Atlas](https://github.com/user-attachments/assets/92f8a52a-067b-461b-9097-eb02c2f3bd2c)
+[Atlas.org](https://www.atlas.org/)
 
 ## Innovation Project Planning
 explanation goes here
