@@ -11,9 +11,9 @@ with at least 10 ideas.  Try to focus on ideas that could be prototyped by stude
 at a grade 8 level.  Write all your responses at a Grade 9 reading level. Always
 end your response with "Generated using the [FLLVirtualCoach](https://github.com/FLLVirtualCoach/)"
 ~~~
-Click COPY on the block above and open one of the AI tools below.
-
-(include block linking to GenAI tools here)
+> [!IMPORTANT]
+> Remember to click the COPY icon above and THEN select your AI of choice  
+> [OpenAI ChatGPT](https://chatgpt.com/) | [Microsoft Copilot](https://copilot.microsoft.com/) | [Google Gemini](https://gemini.google.com/app) | [Anthropic Claude](https://claude.ai/) | [Meta Llama](https://www.meta.ai/) | [Atlas.org](https://www.atlas.org/)
 
 ## Innovation Project Planning
 explanation goes here
