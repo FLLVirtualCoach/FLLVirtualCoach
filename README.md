@@ -1,12 +1,18 @@
-# First Lego League Challenge - FLL Virtual Coach
+#  First Lego League Challenge - FLL Virtual Coach 
 
 ## Project Purpose
-This project is intended to provide ROOKIE & NOVICE First Lego League Challenge (FLL) teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (such as ChatGPT or Microsoft Copilot) to help new teams find inspiration and demonstrate how to assemble the key the components assessed by FLL judges.
+This project is intended to provide ![FirstLogo](https://github.com/user-attachments/assets/d5070ad0-2355-4a49-ae3e-98100dba6242) First Lego League Challenge (FLL)  ROOKIE & NOVICE teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (such as ChatGPT or Microsoft Copilot) to help new teams find inspiration and demonstrate how to assemble the key the components assessed by FLL judges.
 
 ## Get Started
-The prompts are broken into two groups: Innovation Project & Robot Project.  While the prompts work best if you use them "sequentially" in a single chat with an AI, you can use each of them on a standalone basis.  You copy and paste the prompts into your AI of choice and then answer the questions.  Click on each of the tiles below to go to the prompts.
-- include swimlane for innovation project prompt tiles
-- include swimlane for robot project prompt tiles
+The prompts are broken into two groups: Innovation Project & Robot Project.  While the prompts work best if you use them "sequentially" in a single chat with an AI, you can use each of them on a standalone basis.  You copy and paste the prompts into your AI of choice and then answer the questions.  Click on the links below to access the prompts.  
+
+| Innovation Project Prompts | Robot Project Prompts | Other Useful Prompts |
+| -- | --- | ---|
+| 💡 Project Inspiration | 💡 Prompt 1 | 🧁 Fundraising Ideas  |
+| 🗓️ Project Planning | 💡 Prompt 1 | 📔 Set up a lab/test notebook |
+| 🧰 Building a Prototype | 💡 Prompt 1 | 📫 Email asking for help |
+| 🎞️ Presentation Script | 🎞️ Presentation Script | 📔 Lab Notebook Template |
+
 
 > [!NOTE]
 > These prompts are intended for use with any of following free Generative AI (GenAI) Tools  
@@ -19,7 +25,7 @@ The prompts are broken into two groups: Innovation Project & Robot Project.  Whi
 [Atlas.org](https://www.atlas.org/)
 
 ## A Helping Hand
-Only 1/4th of a FLL team's performance is based on their performance "at the table" (actually competing with their robot).  3/4ths of an FLL team's score is based on judge-assessed scores against using FLL scoring rubric.  The scoring rubric assesses a team's Innovation Project, Robot presentation, and Core Values.  Rather than "learning at the competition", this project provides guidance that a rookie or novice team can follow to achieve success on the judged portions of the competition (as they have more than enough tasks to worry about getting started with the competition).  This project will provide a resource that can help teams know "what to do" so they can focus on doing it!
+Only 1/4th of a FLL team's performance is based on their performance "at the table" (actually competing with their robot).  3/4ths of an FLL team's score is based on judge-assessed scores against using FLL scoring rubric.  The judges use a rubric assesses a team's Innovation Project, Robot presentation, and Core Values. This makes the 30-45 minutes that a team spends with the judges the **_most important_** time during an FLL competition.  Unfortunately, it's hard to know what your team is expected to deliver during their first few competitions (as teams don't get to watch other teams present). This project intends to provide some guidance to rookie or novice teams in order to achieve success on the judged portions of the competition (as they have more than enough tasks to worry about getting started with the competition).  This project will provide a resource that can help teams know "what to do" so they can focus on "doing it"!
 
 ## Wait, isn't This "Cheating"?
 Is having an experienced coach cheating? Of course a good coach isn't cheating (and neither is using the FLL Virtual Coach).  This tool provides templates and tools to enhance the team's ideas and efforts, just like an experienced coach. While a team could COPY these outputs in their entirety, the outputs themselves are not sufficient to compete in the competition.  Teams will have to actually "show their work" when presenting to the judges and no amount of coaching can substitute for the hard work of the teams.  These prompts provide guidance and inspiration but do not provide substantive assistance (i.e. primary research, making phone calls, testing and iteration). These tools level the playing field for new teams who have coaches that are also still learning.  If you're a mature FLL team with competition experience (or an experienced coach), this project is unlikely to provide new information for your coaches or team members.
