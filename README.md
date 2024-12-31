@@ -9,7 +9,7 @@ The prompts are broken into groups. You copy and paste the prompts into your AI 
 | Innovation Project Prompts | Robot Project Prompts | Other Useful Prompts |
 | -- | --- | ---|
 | 💡 [Project Inspiration](InnovationPromptLibrary.md#project-inspiration) | 🗺️ Strategy Development | 🧁 Fundraising Ideas  |
-| 🗓️ Project Planning | 🗓️ Project Planning | 📔 Set up a lab/test notebook |
+| 🗓️ [Project Planning](InnovationPromptLibrary.md#project-planning) | 🗓️ Project Planning | 📔 Set up a lab/test notebook |
 | 🧰 Building a Prototype | 🤖 Sensors & Attachment Plan | 📫 Email asking for help |
 | 🎞️ Presentation Script | 🎞️ Presentation Script | 📔 Lab Notebook Template |
 
