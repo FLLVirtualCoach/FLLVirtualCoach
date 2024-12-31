@@ -11,7 +11,7 @@ The prompts are broken into groups. You copy and paste the prompts into your AI 
 | 💡 [Project Inspiration](InnovationPromptLibrary.md#project-inspiration) | 🗺️ Strategy Development | 🧁 Fundraising Ideas  |
 | 🗓️ [Project Planning](InnovationPromptLibrary.md#project-planning) | 🗓️ Project Planning | 📔 Set up a lab/test notebook |
 | 🧰 [Building a Prototype](InnovationPromptLibrary.md#prototype-build-instructions) | 🤖 Sensors & Attachment Plan | 📫 Email asking for help |
-| 🎞️ Presentation Script | 🎞️ Presentation Script | 📔 Lab Notebook Template |
+| 🎞️ [Presentation Script](InnovationPromptLibrary.md#innovation-project-presentation) | 🎞️ Presentation Script | 📔 Lab Notebook Template |
 
 
 > [!NOTE]
