@@ -36,5 +36,6 @@ Is having an experienced coach cheating? Of course a good coach isn't cheating (
 ### Success Stories
 [Include text asking people to submit their feedback and success stories on the discussion board and then we'll post a linkback to their team here] 
 
+## Licensing
 > [!Important]
 > This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Each contributor to this project retains all intellectual property rights that they have in any materials that have been contributed to this project (including the right to withdraw such materials or to change their license terms).
