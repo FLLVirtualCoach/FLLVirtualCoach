@@ -4,13 +4,13 @@
 This project is intended to provide ![FirstLogo](https://github.com/user-attachments/assets/d5070ad0-2355-4a49-ae3e-98100dba6242) First Lego League Challenge (FLL)  ROOKIE & NOVICE teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (such as ChatGPT or Microsoft Copilot) to help new teams find inspiration and demonstrate how to assemble the key the components assessed by FLL judges.
 
 ## Get Started
-The prompts are broken into two groups: Innovation Project & Robot Project.  While the prompts work best if you use them "sequentially" in a single chat with an AI, you can use each of them on a standalone basis.  You copy and paste the prompts into your AI of choice and then answer the questions.  Click on the links below to access the prompts.  
+The prompts are broken into groups. You copy and paste the prompts into your AI of choice and then answer the questions. You can mix and match prompts from the same column (but this may not always work).  Click on the links below to access the prompts.  
 
 | Innovation Project Prompts | Robot Project Prompts | Other Useful Prompts |
 | -- | --- | ---|
-| 💡 Project Inspiration | 💡 Prompt 1 | 🧁 Fundraising Ideas  |
-| 🗓️ Project Planning | 💡 Prompt 1 | 📔 Set up a lab/test notebook |
-| 🧰 Building a Prototype | 💡 Prompt 1 | 📫 Email asking for help |
+| 💡 Project Inspiration | 🗺️ Strategy Development | 🧁 Fundraising Ideas  |
+| 🗓️ Project Planning | 🗓️ Project Planning | 📔 Set up a lab/test notebook |
+| 🧰 Building a Prototype | 🤖 Sensors & Attachment Plan | 📫 Email asking for help |
 | 🎞️ Presentation Script | 🎞️ Presentation Script | 📔 Lab Notebook Template |
 
 
