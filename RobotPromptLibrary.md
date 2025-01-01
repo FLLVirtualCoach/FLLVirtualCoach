@@ -1,3 +1,4 @@
+🏠 [Go Home](https://github.com/FLLVirtualCoach)
 # Innovation Project - Prompt Library
 ## Basic Strategy Development
 This prompt will help your team think about different strategies and ways that they can solve problems.  They can ask the AI about specific problems (i.e. how could I lift up a box and put it on a platform).
