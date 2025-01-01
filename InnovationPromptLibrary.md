@@ -1,3 +1,4 @@
+🏠 [Go Home](https://github.com/FLLVirtualCoach)
 # Innovation Project - Prompt Library
 ## Project Inspiration
 This prompt will generate a list of potential ideas for an **Innovation Project**.  The team can interact with the prompt and ask for additional details.  They can indicate the project they want to explore and add another _FLLVirtualCoach_ prompt.
