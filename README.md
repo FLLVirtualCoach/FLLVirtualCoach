@@ -1,7 +1,7 @@
 #  First Lego League Challenge - FLL Virtual Coach 
 
 ## Project Purpose
-This project is intended to provide ![FirstLogo](https://github.com/user-attachments/assets/d5070ad0-2355-4a49-ae3e-98100dba6242) First Lego League Challenge (FLL)  ROOKIE & NOVICE teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (such as ChatGPT or Microsoft Copilot) to help new teams find inspiration and demonstrate how to assemble the key the components assessed by FLL judges.
+This project is intended to provide ![FirstLogo](/Images/FIRST.png) First Lego League Challenge (FLL)  ROOKIE & NOVICE teams with a set of interactive tools that they can use to kickstart their FLL team. These tools leverage modern Generative AI platforms (such as ChatGPT or Microsoft Copilot) to help new teams find inspiration and demonstrate how to assemble the key the components assessed by FLL judges.
 
 ## Get Started
 The prompts are broken into groups. You copy and paste the prompts into your AI of choice and then answer the questions you get back from the AI. You can mix and match prompts from the same column (but this may not always work).  Click on the links below to access the prompts.  
