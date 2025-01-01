@@ -10,7 +10,7 @@ The prompts are broken into groups. You copy and paste the prompts into your AI 
 | -- | --- | ---|
 | 💡 [Project Inspiration](InnovationPromptLibrary.md#project-inspiration) | 🗺️ [Strategy Development](RobotPromptLibrary.md#strategy-development) | 🧁 [Fundraising Ideas](OtherPromptLibrary.md#fundraising-ideas)  |
 | 🗓️ [Project Planning](InnovationPromptLibrary.md#project-planning) | 🗓️ [Project Planning](RobotPromptLibrary.md#robot-project-planning) | 📔 [Set up a lab/test notebook](OtherPromptLibrary.md#setup-a-labtest-notebook) |
-| 🧰 [Building a Prototype](InnovationPromptLibrary.md#prototype-build-instructions) | 🤖 Sensors & Attachment Plan | 📫 [Create and Email to ask for help](OtherPromptLibrary.md#asking-for-help-fundraising-expert-collaboration-volunteers) |
+| 🧰 [Building a Prototype](InnovationPromptLibrary.md#prototype-build-instructions) | 🤖 [Advanced Strategy, Build & Attachment Coach](#) | 📫 [Create and Email to ask for help](OtherPromptLibrary.md#asking-for-help-fundraising-expert-collaboration-volunteers) |
 | 🎞️ [Presentation Script](InnovationPromptLibrary.md#innovation-project-presentation) | 🎞️ [Presentation Script](RobotPromptLibrary.md#robot-presentation) | 📔 [Coding Tips & Tricks](OtherPromptLibrary.md#coding-tips-and-tricks) |
 
 > [!NOTE]
