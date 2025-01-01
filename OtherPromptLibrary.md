@@ -1,3 +1,4 @@
+🏠 [Go Home](https://github.com/FLLVirtualCoach)
 # Other Useful Prompts - Prompt Library
 ## Fundraising Ideas
 This prompt will generate a list of potential fundraising ideas foryour FLL team.  The team can interact with the prompt and ask for additional details.
