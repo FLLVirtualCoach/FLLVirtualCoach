@@ -13,7 +13,6 @@ The prompts are broken into groups. You copy and paste the prompts into your AI 
 | 🧰 [Building a Prototype](InnovationPromptLibrary.md#prototype-build-instructions) | 🤖 Sensors & Attachment Plan | 📫 [Create and Email to ask for help](OtherPromptLibrary.md#asking-for-help-fundraising-expert-collaboration-volunteers) |
 | 🎞️ [Presentation Script](InnovationPromptLibrary.md#innovation-project-presentation) | 🎞️ Presentation Script | 📔 [Coding Tips & Tricks](OtherPromptLibrary.md#coding-tips-and-tricks) |
 
-
 > [!NOTE]
 > These prompts are intended for use with any of following free Generative AI (GenAI) Tools  
 > ![chatgpt](/Images/Chatgpt.png)
@@ -23,6 +22,10 @@ The prompts are broken into groups. You copy and paste the prompts into your AI 
 [Anthropic Claude](https://claude.ai/)  ![meta](/Images/Meta.png)
 [Meta Llama](https://www.meta.ai/)  ![Atlas](/Images/atlas.png)
 [Atlas.org](https://www.atlas.org/)
+
+> [!TIP]
+> If your team is finding it difficult to interact with AI tools by "typing" (i.e. because they are young or have limited experience), consider encouraging them to use their device's speech-to-text function. Instructions here for [Windows](https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f), [MacOS](https://support.apple.com/en-ca/guide/mac-help/mh40584/mac), and [ChromeOS](https://support.google.com/chromebook/answer/12001244?hl=en).
+
 
 ## A Helping Hand
 Only 1/4th of a FLL team's performance is based on their performance "at the table" (actually competing with their robot).  3/4ths of an FLL team's score is based on judge-assessed scores against using FLL scoring rubric.  The judges use a rubric assesses a team's Innovation Project, Robot presentation, and Core Values. The 30-45 minutes that a team spends with the judges is the **_most important_** time during the FLL competition.  Unfortunately, it's hard to know what your team is expected to deliver during their first few competitions (as teams don't get to watch other teams present). This project intends to provide some guidance to rookie or novice teams in order to achieve success on the judged portions of the competition (as they have more than enough tasks to worry about getting started with the competition).  This project will provide a resource that can help teams know "what to do" so they can focus on "doing it"!
