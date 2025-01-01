@@ -31,11 +31,14 @@ Only 1/4th of a FLL team's performance is based on their performance "at the tab
 Is having an experienced coach cheating? Of course a good coach isn't cheating (and neither is using the FLL Virtual Coach).  This tool provides templates and tools to enhance the team's ideas and efforts, just like an experienced coach. While a team could COPY these outputs in their entirety, the outputs themselves are not sufficient to compete in the competition.  Teams will have to actually "show their work" when presenting to the judges and no amount of coaching can substitute for the hard work of the teams.  These prompts provide guidance and inspiration but do not provide substantive assistance (i.e. primary research, making phone calls, testing and iteration). These tools level the playing field for new teams who have coaches that are also still learning.  If you're a mature FLL team with competition experience (or an experienced coach), this project is unlikely to provide new information for your coaches or team members.
 
 ## Community Engagement
-### FRC Team Support
-[include text here regarding the support of WARP7 and link to their site]
+### Contact Information
+If you would like to contact the administrator for this project, please email admin@fllvirtualcoach.org. We would love to hear from you.  If you have ideas for new prompts, please send them in (we're happy to link back to your team/organization for attribution).  If you've had success using these prompts, please let us know and we'll add a link to your team/organization in the Success Stories section, below.
+
 ### Success Stories
-[Include text asking people to submit their feedback and success stories on the discussion board and then we'll post a linkback to their team here] 
+If you've had success using these prompts, we'll add a link to your team/organization right here.
+
+### FRC Team Support
+Special thanks to FRC Team 865 - WARP7!  They host annual FLL Challenge competitions at Western Technical Commercial School (Toronto, Ontario, Canada) which provided the inspiration for creating these tools. In addition, WARP7 team members have provided helpful testing and feedback.  Check them out here: https://www.warp7.ca/ & https://www.instagram.com/frc865/?hl=en
 
 ## Licensing
-> [!Important]
-> This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Each contributor to this project retains all intellectual property rights that they have in any materials that have been contributed to this project (including the right to withdraw such materials or to change their license terms).
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Each contributor to this project retains all intellectual property rights that they have in any materials that have been contributed to this project (including the right to withdraw such materials or to change their license terms).
