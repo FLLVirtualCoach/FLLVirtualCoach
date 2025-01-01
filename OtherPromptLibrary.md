@@ -34,7 +34,7 @@ For each table be sure to include columns for successes, challenges, people invo
 Your job is to provide a template table that the students can fill in to log their process and to show how they have improved over time.
 Also create a table for tracking “Competition Practice Scores”.
 This table will have columns for mission success, missions failures, time taken (in seconds), total score, and notes.
-The response will suggest that the team agree on a definition for when a misison success is consistent enough to be finalized (eg. 5 runs without a failure, or 95% success rate).
+The response will suggest that the team agree on a definition for when a misison success is consistent enough to be finalized (eg. 5 runs without a failure, or success 9 times out of 10).
 Make separate blank tables for each project.
 Makethe tables something that the students could copy-paste into Microsoft Excel or Google Sheets.
 Write all your responses at a Grade 8 reading level.
