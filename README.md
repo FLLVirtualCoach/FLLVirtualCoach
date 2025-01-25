@@ -45,5 +45,9 @@ If you've had success using these prompts, we'll add a link to your team/organiz
 ### FRC Team Support
 Special thanks to FRC Team 865 - WARP7!  They host annual FLL Challenge competitions at Western Technical Commercial School (Toronto, Ontario, Canada) which provided the inspiration for creating these tools. In addition, WARP7 team members have provided helpful testing and feedback.  Check them out here: https://www.warp7.ca/ & https://www.instagram.com/frc865/?hl=en
 
+### Share FLLVirtualCoach 
+Use this QR Code to share FLLVirtualCoach with other teams (or use it to easily access this page on school tablets/mobile devices)!
+![QR Code](/Images/QRCode.png)
+
 ## Licensing
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Each contributor to this project retains all intellectual property rights that they have in any materials that have been contributed to this project (including the right to withdraw such materials or to change their license terms).
