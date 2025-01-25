@@ -48,7 +48,7 @@ Special thanks to FRC Team 865 - WARP7!  They host annual FLL Challenge competit
 ### Share FLLVirtualCoach 
 Use this QR Code to share FLLVirtualCoach with other teams (or use it to easily access this page on school tablets/mobile devices)!
 
-![QR Code](/Images/QRCode.png)
+<img src="/Images/QRCode.png" width="128">
 
 ## Licensing
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Each contributor to this project retains all intellectual property rights that they have in any materials that have been contributed to this project (including the right to withdraw such materials or to change their license terms).
