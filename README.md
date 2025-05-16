@@ -7,7 +7,7 @@ This project is intended to provide ![FirstLogo](/Images/FIRST.png) First Lego L
 The prompts are broken into groups. You copy and paste the prompts into your AI of choice and then answer the questions you get back from the AI. You can mix and match prompts from the same column (but this may not always work).  Click on the links below to access the prompts.
 | General Use Prompts|
 | --- |
-| 💡[Interactive Idea Exploration](GeneralUsePrompts.md#Interactive-Idea-Exploration)|
+| 💡[Refine your ideas](GeneralUsePrompts.md#Refine-your-ideas)|
 
 | Innovation Project Prompts | Robot Project Prompts | Other Useful Prompts |
 | -- | --- | ---|
