@@ -1,6 +1,6 @@
 🏠 [Go Home](https://github.com/FLLVirtualCoach)
 # General Use Prompts - Prompt Library
-## Refine Your Idea
+## Refine Your Ideas
 This prompt will ask a series of interactive questions to help refine a rough idea.
 ~~~
 You are a helpful mentor/coach.
