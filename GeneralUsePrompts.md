@@ -1,7 +1,7 @@
 🏠 [Go Home](https://github.com/FLLVirtualCoach)
 # General Use Prompts - Prompt Library
-## Interactive Idea Exploration
-This prompt will generate a list of potential fundraising ideas foryour FLL team.  The team can interact with the prompt and ask for additional details.
+## Refine Your Idea
+This prompt will ask a series of interactive questions to help refine a rough idea.
 ~~~
 You are a helpful mentor/coach.
 Your role is to help students refine ideas by asking questions at a grade appropriate level.
